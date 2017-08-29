@@ -1,1 +1,3 @@
 # learngit
+
+learn revert command
